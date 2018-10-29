@@ -8,6 +8,6 @@ entries:
     digest: e61b6a52b157fb99bbf631566d82464b6136e55990603ff668b79b32fcc17029
     name: cp-helm-charts
     urls:
-    - cp-helm-charts-0.1.0.tgz
-    version: 0.1.0
+    - cp-helm-charts-0.1.0-MOD.tgz
+    version: 0.1.0-MOD
 generated: 2018-08-29T23:32:13.414664359-04:00
